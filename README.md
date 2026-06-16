@@ -1,2 +1,25 @@
-# 13918cd844e399dc-accessibility-gamification-and
-A comprehensive gamification and rewards system bot designed specifically for the accessibility industry.
+# Accessibility Gamification and Rewards System Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28EeVd5iTaQAg88cDWcZe1z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28EeVd5iTaQAg88cDWcZe1z)
+
